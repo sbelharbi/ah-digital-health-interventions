@@ -58,8 +58,6 @@ In addition, better methods for modeling spatio-temporal and multimodal fusion
 are necessary to leverage conflicts within and across modalities.
 
 
-**Code: Pytorch 2.2.2**
-
 
 ## Citation:
 ```
