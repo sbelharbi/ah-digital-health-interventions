@@ -1,4 +1,4 @@
-# [Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions](https://arxiv.org/pdf/2604.11730)
+# [Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions](https://arxiv.org/pdf/2604.11730)
 
 
 by
@@ -62,7 +62,7 @@ are necessary to leverage conflicts within and across modalities.
 ## Citation:
 ```
 @article{gonzalez-26-ah-digital,
-  title={Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions},
+  title={Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions},
   author={González-González, M. and  Belharbi, S. and Zeeshan, M.O. and Sharafi, M. and Aslam, M.H. and Sia, L. and Richet, N. and Pedersoli, M. and Koerich, A.L. and Bacon, S.L. and Granger, E.},
   journal={CoRR},
   volume={abs/2604.11730},
