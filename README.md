@@ -72,7 +72,7 @@ are necessary to leverage conflicts within and across modalities.
 
 ## Reference code:
 * **Supervised Learning**:
-  - [https://github.com/sbelharbi/bah-dataset](https://github.com/sbelharbi/bah-dataset) [1]
+  - [https://github.com/LIVIAETS/bah-dataset](https://github.com/LIVIAETS/bah-dataset) [1]
 * **Personalization using Domain Adaptation**:
   - [https://github.com/MasoumehSharafi/TTA-CaP](https://github.com/MasoumehSharafi/TTA-CaP) [2]
   - [https://github.com/osamazeeshan/CLIP-AUTT](https://github.com/osamazeeshan/CLIP-AUTT) [3]
