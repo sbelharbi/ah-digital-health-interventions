@@ -36,17 +36,19 @@ improve medical outcomes. In-person interventions are costly and difficult to
 scale, especially in resource-limited regions. Digital health interventions
 offer a cost-effective approach, potentially supporting independent living and
 self-management. Automating such interventions, especially through machine
-learning, has gained considerable attention recently.
-Ambivalence and hesitancy (A/H) play a primary role for individuals to delay,
-avoid, or abandon health interventions. A/H are subtle and conflicting emotions
-that place a person in a state between positive and negative evaluations of a
-behaviour, or between acceptance and refusal to engage in it. They manifest as
-affective inconsistency across modalities or within a modality, such as language,
-facial, vocal expressions, and body language.  While experts can be trained to
-recognize A/H, as done for in-person interactions, integrating them into digital
-health interventions is costly and less effective. Automatic A/H recognition is
-therefore critical for the personalization and cost-effectiveness of digital
-health interventions.
+learning, has recently gained considerable attention.
+%
+Ambivalence and hesitancy (A/H) play a primary role for individuals delaying,
+avoiding, or abandoning health interventions. A/H are subtle and conflicting
+emotions that place a person in a state between positive and negative evaluations
+of a behaviour, or between acceptance and refusal to engage in it. They manifest
+as affective inconsistency across modalities or within a modality, such as
+language, facial, vocal expressions, and body language.  While experts can be
+trained to recognize A/H, as done for in-person interactions, integrating them
+into digital health interventions is costly and less effective. Automatic A/H
+recognition is therefore critical for the personalization and cost-effectiveness
+of digital health interventions.
+%
 In this paper, we explore the application of deep learning models for A/H
 recognition in videos, a multi-modal task by nature. In particular, this paper
 covers three learning setups: supervised learning, unsupervised domain adaptation
@@ -88,21 +90,23 @@ are necessary to leverage conflicts within and across modalities.
 
 ### Conclusion
 
-Automating digital health interventions, especially through ML, has gained
-significant attention recently.
-A/H play a primary role for individuals to delay, avoid, or abandon health
-behaviour changes. Automatic and accurate A/H recognition is therefore critical
-for the personalization and cost-effectiveness of digital behaviour change interventions.
-
+Automating digital health interventions, especially through ML, has recently
+gained significant attention.
+A/H plays a primary role in delaying, avoiding, or abandoning health behaviour
+changes. Automatic and accurate A/H recognition is therefore critical for the
+personalization and cost-effectiveness of digital behaviour change interventions.
 We explored, in this work, the application of deep learning models for the task
-of A/H recognition in videos. We cover three learning scenarios: supervised learning,
-unsupervised domain adaptation for personalization, and zero-shot inference via LLMs.
-Our experiments are conducted on the unique and recently published dataset *BAH*
-for A/H recognition. Our results showed that existing models have limited
-performance. This suggests that more adapted multi-modal models are required for
-accurate A/H recognition. Moreover, better ways to model spatio-temporal and
-modality fusion are necessary to detect within and cross-modality conflicts.
+of A/H recognition in videos. We cover three learning scenarios: supervised
+learning, unsupervised domain adaptation for personalization, and zero-shot
+inference via LLMs. Our experiments are conducted on the unique and recently
+published dataset *BAH* for A/H recognition. Our results showed that existing
+models have limited performance. This suggests that more adapted multi-modal
+models are required for accurate A/H recognition. Moreover, better ways to model
+spatio-temporal and modality fusion are necessary to detect within- and
+cross-modality conflicts.
 
 
 ### Acknowledgments
-This work was supported in part by the Fonds de recherche du Québec – Santé, the Natural Sciences and Engineering Research Council of Canada, Canada Foundation for Innovation, and the Digital Research Alliance of Canada. We thank interns that participated in the dataset annotation: Jessica Almeida (Concordia University, Université du Québec à Montréal), and Laura Lucia Ortiz (MBMC).
+This work was supported in part by the Fonds de recherche du Québec – Santé,
+Natural Sciences and Engineering Research Council of Canada, Canada Foundation
+for Innovation, and Digital Research Alliance of Canada.
