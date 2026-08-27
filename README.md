@@ -28,6 +28,7 @@ Eric Granger<sup>1</sup>**
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.11730-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2604.11730)
+[![Poster](https://img.shields.io/badge/Poster-orange)](https://sbelharbi.github.io/publications/posters/Multimodal-Ambivalence-Hesitancy-Recognition-in-Videos-for-Personalized-Digital-Health-Interventions-Poster-ACII-2026.pdf)
 
 ## Abstract
 Using behavioural science, health interventions focus on behaviour change by
