@@ -9,8 +9,8 @@ Masoumeh Sharafi<sup>1</sup>,
 Muhammad Haseeb Aslam<sup>1</sup>,
 Lorenzo Sia<sup>1</sup>,
 Nicolas Richet<sup>1</sup>,
-Alessandro Lameiras Koerich<sup>2</sup>,
 Marco Pedersoli<sup>1</sup>,
+Alessandro Lameiras Koerich<sup>2</sup>,
 Simon L. Bacon<sup>3,4</sup> &
 Eric Granger<sup>1</sup>**
 
