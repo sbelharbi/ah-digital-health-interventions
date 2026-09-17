@@ -81,13 +81,16 @@ are necessary to leverage conflicts within and across modalities.
   - [https://github.com/osamazeeshan/CLIP-AUTT](https://github.com/osamazeeshan/CLIP-AUTT) [3]
 * **Zero-shot Inference: Multimodal Large Language Models**:
   - [https://github.com/sbelharbi/zero-shot-m-llm-bah-prediction](https://github.com/sbelharbi/zero-shot-m-llm-bah-prediction) [1]
+  - [https://github.com/LorenzoGitPro/video_level_predictions_AffectGPT](https://github.com/LorenzoGitPro/video_level_predictions_AffectGPT)[4]
 
 
-[1]: [_"BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Digital Behavioural Change"_, González et al., ICLR 2026.](https://arxiv.org/pdf/2505.19328)
+[1]: [_"BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Digital Behavioural Change"_, González et al., ICLR 2026](https://arxiv.org/pdf/2505.19328)
 <br/>
-[2]: [_"Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos"_, Sharafi et al., 2026](https://arxiv.org/pdf/2603.21309)
+[2]: [_"Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos"_, Sharafi et al., CoRR 2026](https://arxiv.org/pdf/2603.21309)
 <br/>
-[3]: [_"CLIP-AUTT: Test-Time Personalization with Action Unit Prompting for Fine-Grained Video Emotion Recognition"_, Zeeshan et al., 2026](https://arxiv.org/pdf/2603.27999)
+[3]: [_"CLIP-AUTT: Test-Time Personalization with Action Unit Prompting for Fine-Grained Video Emotion Recognition"_, Zeeshan et al., ECCV 2026](https://arxiv.org/pdf/2603.27999)
+<br/>
+[4]: [_"AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models"_, Lian et al., ICML 2026](https://arxiv.org/pdf/2501.16566)
 
 ### Conclusion
 
