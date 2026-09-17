@@ -66,7 +66,9 @@ are necessary to leverage conflicts within and across modalities.
 ```bibtex
 @inproceedings{gonzalez-26-ah-digital,
   title={Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions},
-  author={González-González, M. and  Belharbi, S. and Zeeshan, M.O. and Sharafi, M. and Aslam, M.H. and Sia, L. and Richet, N. and Pedersoli, M. and Koerich, A.L. and Bacon, S.L. and Granger, E.},
+  author={González-González, M. and  Belharbi, S. and Zeeshan, M.O. and
+    Sharafi, M. and Aslam, M.H. and Sia, L. and Richet, N. and Pedersoli, M. and
+    Koerich, A.L. and Bacon, S.L. and Granger, E.},
   booktitle={Conference on Affective Computing and Intelligent Interaction (ACII)},
   year={2026}
 }
