@@ -81,7 +81,7 @@ are necessary to leverage conflicts within and across modalities.
   - [https://github.com/osamazeeshan/CLIP-AUTT](https://github.com/osamazeeshan/CLIP-AUTT) [3]
 * **Zero-shot Inference: Multimodal Large Language Models**:
   - [https://github.com/sbelharbi/zero-shot-m-llm-bah-prediction](https://github.com/sbelharbi/zero-shot-m-llm-bah-prediction) [1]
-  - [https://github.com/LorenzoGitPro/video_level_predictions_AffectGPT](https://github.com/LorenzoGitPro/video_level_predictions_AffectGPT)[4]
+  - [https://github.com/LorenzoGitPro/video_level_predictions_AffectGPT](https://github.com/LorenzoGitPro/video_level_predictions_AffectGPT) [4]
 
 
 [1]: [_"BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Digital Behavioural Change"_, González et al., ICLR 2026](https://arxiv.org/pdf/2505.19328)
